@@ -74,7 +74,7 @@ This code depends on opencv-python, torchvision available via pip install.
 #### Clone this repo
 
 ```bash
-git clone https://github.com/HypoX64/DeepMosaics.git
+git clone https://github.com/rizki0030/DeepMosaics.git
 cd DeepMosaics
 ```
 
