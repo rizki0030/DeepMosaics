@@ -1,6 +1,6 @@
 opencv_python==4.9.0.80
 numpy==1.26.2
-torchvision==0.16.2
+torchvision==2.2.51
 torch==2.1.2
 matplotlib==3.8.2
 tensorboardX==2.2
