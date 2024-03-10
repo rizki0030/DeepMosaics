@@ -1,0 +1,8 @@
+opencv_python==4.9.0.80
+numpy==1.26.4
+torchvision==0.17.1
+torch==2.2.1
+matplotlib==3.8.3
+tensorboardX==2.6.2.2
+scikit-image==0.22.0
+protobuf==4.0.0rc1
